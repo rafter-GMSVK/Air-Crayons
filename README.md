@@ -6,7 +6,7 @@ The user also has the option to choose colors from the color slider. An SQL data
 
 
 <h2>Tools/Library Used</h2>
-1) Pygame
+1) Pygame\n
 2) Tkinter
 3) OpenCV
 4) MySQL
