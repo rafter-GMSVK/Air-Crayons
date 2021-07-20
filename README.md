@@ -4,17 +4,15 @@ Air-crayon is a python based application which uses Computer vision to track the
 
 
 <h2>Tools/Library Used</h2>
-1) Python
-1.Pygame
-2.Tkinter
-3.OpenCV
-4.MySQL
+1) Pygame
+2) Tkinter
+3) OpenCV
+4) MySQL
 
 
 <h2>Problems Faced:</h2>
 Intially, Storing data was easy but retriving the data was not as it was being saved as a blob. The problem was solved using regular Expression.
 
 <h2>How to run the app</h2>
-<ol>
-  <li>Goutam</li>
-</ol>
+1) After Cloning the repository, Open the Air-Crayon.ipynb 
+2) Create a SQL database for saving the data and you are all set!
