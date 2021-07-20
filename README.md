@@ -19,5 +19,5 @@ Intially, Storing data was easy but retriving the data was not as it was being s
 1) After Cloning the repository, Open the Air-Crayon.ipynb 
 2) Create a SQL database for saving the data and you are all set!
 
-## You-Tube Video Link
+## YouTube Video Link
 https://www.youtube.com/watch?v=sG2_sY77MEY
