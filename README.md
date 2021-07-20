@@ -1,6 +1,8 @@
 # Air-Crayons
 
-Air-crayon is a python based application which uses Computer vision to track the motion of the crayon ( any tool chosen by the user ) and uses the video frame as a canvas to draw on the screen in real time. The user also has the option to choose colors from the color slider. An SQL database has also been implemented to store the user credentials. The user also has an option to save the drawing made using the crayon as a BLOB file in the sql database.
+Air-crayon is a python based application which uses Computer vision to track the motion of the crayon ( any tool chosen by the user ) and uses the video frame as a canvas to draw on the screen in real time.
+
+The user also has the option to choose colors from the color slider. An SQL database has also been implemented to store the user credentials. The user also has an option to save the drawing made using the crayon as a BLOB file in the sql database.
 
 
 <h2>Tools/Library Used</h2>
